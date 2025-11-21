@@ -1,0 +1,5 @@
+outs:
+- md5: 7623eb8abaa58b006b2501de68b9e46c
+  size: 300318
+  hash: md5
+  path: classifier.pkl
